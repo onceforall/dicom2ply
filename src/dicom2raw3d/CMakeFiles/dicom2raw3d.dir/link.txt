@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/dicom2raw3d.dir/dicom2raw3d.cpp.o  -o dicom2raw3d ../libdtr/libdtr.a 

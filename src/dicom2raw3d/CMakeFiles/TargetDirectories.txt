@@ -1,0 +1,7 @@
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/install/strip.dir
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/edit_cache.dir
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/dicom2raw3d.dir
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/install.dir
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/rebuild_cache.dir
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/list_install_components.dir
+/home/yons/projects/dicom2raw/src/dicom2raw3d/CMakeFiles/install/local.dir

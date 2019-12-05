@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdtr.a  CMakeFiles/dtr.dir/element.cpp.o CMakeFiles/dtr.dir/element_dictionary.cpp.o CMakeFiles/dtr.dir/element_dictionary_data.cpp.o CMakeFiles/dtr.dir/element_dictionary_item.cpp.o CMakeFiles/dtr.dir/file.cpp.o CMakeFiles/dtr.dir/information.cpp.o CMakeFiles/dtr.dir/reader.cpp.o CMakeFiles/dtr.dir/tag.cpp.o CMakeFiles/dtr.dir/uid_dictionary.cpp.o CMakeFiles/dtr.dir/uid_dictionary_data.cpp.o CMakeFiles/dtr.dir/uid_dictionary_item.cpp.o CMakeFiles/dtr.dir/value.cpp.o
+/usr/bin/ranlib libdtr.a
